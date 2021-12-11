@@ -43,3 +43,20 @@
 ### Artigos recomendado: 
 - https://serverless-stack.com/chapters/pt/what-is-serverless.html
 - https://www.w3schools.com/whatis/whatis_http.asp
+
+## Stack
+- Node
+- NPM / Yarn 
+- Nodemon
+- Webpack
+- Visual Studio Code
+- Insomnia
+- CORS (cross-origin resource sharing)
+
+## Code Together
+- Integração Back-end e Front-end
+- Full-stack node.js
+- Listagem
+- Adicionar
+- Alterar (aluno)
+- Excluir (aluno)
