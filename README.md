@@ -31,6 +31,10 @@
 - Diferente dos sistemas monolíticos 
 - CRUD (Create Read Update Delete)
 
+## API Rest(ful)
+- Application Programming Interface
+- Utitiliza métodos HTTP 
+
 ### Artigos recomendado: 
 - https://serverless-stack.com/chapters/pt/what-is-serverless.html
 - https://www.w3schools.com/whatis/whatis_http.asp
