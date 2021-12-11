@@ -32,8 +32,13 @@
 - CRUD (Create Read Update Delete)
 
 ## API Rest(ful)
-- Application Programming Interface
+- Application Programming Interface (API)
+- Representational State Transfer (Rest)
 - Utitiliza métodos HTTP 
+- POST: criar dados no servidor
+- GET: leitura de dados no host
+- DELETE: excluir as informações
+- PUT: atualizações de registros
 
 ### Artigos recomendado: 
 - https://serverless-stack.com/chapters/pt/what-is-serverless.html

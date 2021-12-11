@@ -4,6 +4,7 @@
   "description": "projeto para gerenciamento de contatos",
   "main": "index.js",
   "scripts": {
+    "server": "nodemon ./index.js localhost 3001",
     "build": "webpack",
     "watch": "webpack serve --open --mode development"
   },
